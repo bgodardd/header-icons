@@ -1,0 +1,35 @@
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+html {
+  font-family: 'Merriweather', serif;
+  color: #fff;
+}
+
+header {
+  background-color: #d05c2e;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+li {
+  list-style-type: none;
+  display: inline;
+  font-size: 1.125rem;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #a63f38;
+  padding: 4px;
+  }
+
+}
+
+img {
+  float: left;
+  width: 25%;
+}
